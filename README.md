@@ -15,6 +15,6 @@
 <br><br>
 
 <!-- Ваши ссылки -->
-[atabook](https://atabook.com) &nbsp;&nbsp; [info](https://example.com) &nbsp;&nbsp; [guns.lol](https://guns.lol) &nbsp;&nbsp; [straw.page](https://straw.page)
+[tiktok](https://www.tiktok.com/@ffr3u11d?_r=1&_t=ZP-99xnrWm5hip) &nbsp;&nbsp; [info](https://example.com) &nbsp;&nbsp; [guns.lol](https://guns.lol) &nbsp;&nbsp; [straw.page](https://straw.page)
 
 </div>
