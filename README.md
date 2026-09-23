@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- 1. Картинка (замените ССЫЛКА на ваш URL) -->
-<img src="ССЫЛКА_НА_ВАШУ_КАРТИНКУ" width="90%" alt="Banner">
+<img src=
+Без названия123_20260923001256.pngwidth="90%" alt="Banner">
 
 <br><br>
 
