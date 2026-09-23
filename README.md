@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Ваш баннер с Фёдором Достоевским -->
-<img src="[https://imgbox.com](https://github.com/ffr3udd/ffr3udd/blob/28ee65e4acebd6f8703e4c6223923af22e45606c/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F123_20260923001256.png)" 
+<!-- Прямая ссылка на ваш баннер -->
+<img src="https://imgbox.com" width="95%" alt="Banner">
 
 <br><br>
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<!-- Ссылки -->
+<!-- Ваши ссылки -->
 [atabook](https://atabook.com) &nbsp;&nbsp; [info](https://example.com) &nbsp;&nbsp; [guns.lol](https://guns.lol) &nbsp;&nbsp; [straw.page](https://straw.page)
 
 </div>
