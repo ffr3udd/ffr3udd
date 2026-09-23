@@ -10,7 +10,8 @@
 
 <br>
 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+russ/eng      w2i - maybe c+h (ask first) 
+safe russian 1
 
 <br><br>
 
