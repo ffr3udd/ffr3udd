@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- 1. Картинка (замените ССЫЛКА на ваш URL) -->
-<img src=
-Без названия123_20260923001256.pngwidth="90%" alt="Banner">
+<!-- Ваш баннер с Фёдором Достоевским -->
+<img src="https://imgbox.com" width="95%" alt="Banner">
 
 <br><br>
 
-<!-- 2. Счетчик просмотров для ffr3udd -->
+<!-- Рабочий счетчик просмотров -->
 <img src="https://komarev.com" alt="Profile Views">
 
 <br>
@@ -15,7 +14,7 @@
 
 <br><br>
 
-<!-- 3. Ссылки (замените # на свои ссылки) -->
-[atabook](#) &nbsp;&nbsp; [info](#) &nbsp;&nbsp; [guns.lol](#) &nbsp;&nbsp; [straw.page](#)
+<!-- Ссылки -->
+[atabook](https://atabook.com) &nbsp;&nbsp; [info](https://example.com) &nbsp;&nbsp; [guns.lol](https://guns.lol) &nbsp;&nbsp; [straw.page](https://straw.page)
 
 </div>
