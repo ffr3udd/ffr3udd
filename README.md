@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://imgbox.com" width="95%" alt="Banner">
+<!-- Ваш загруженный баннер -->
+<img src="Без названия123_20260923001256.png" width="95%">
 
 <br><br>
 
-<img src="https://komarev.com" alt="Profile Views">
+<!-- Рабочий счетчик просмотров -->
+<img src="https://komarev.com">
 
 <br>
 
@@ -12,6 +14,7 @@
 
 <br><br>
 
+<!-- Ваши ссылки -->
 [atabook](https://atabook.com) &nbsp;&nbsp; [info](https://example.com) &nbsp;&nbsp; [guns.lol](https://guns.lol) &nbsp;&nbsp; [straw.page](https://straw.page)
 
 </div>
