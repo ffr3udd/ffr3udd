@@ -10,8 +10,8 @@
 
 <br>
 
-russ/eng      w2i - maybe c+h (ask first) 
-safe russian 1
+𝐫𝐮𝐬𝐬/𝐞𝐧𝐠 𝐰𝟐𝐢 - 𝐦𝐚𝐲𝐛𝐞 𝐜+𝐡 (𝐚𝐬𝐤 𝐟𝐢𝐫𝐬𝐭)
+𝐬𝐚𝐟𝐞 𝐫𝐮𝐬𝐬𝐢𝐚𝐧 #𝟏 𝐨𝐧𝐥𝐲
 
 <br><br>
 
