@@ -19,3 +19,4 @@
 [𝐓𝐢𝐤𝐭𝐨𝐤](https://www.tiktok.com/@ffr3u11d?_r=1&_t=ZP-99xnrWm5hip) &nbsp;&nbsp; [𝐃𝐢𝐬𝐜𝐨𝐫𝐝](https://discord.gg/py4x2VsT) 
 
 </div>
+<img src="https://komarev.com">
