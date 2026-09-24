@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- Рабочий счетчик просмотров -->
-<img src="https://komarev.com">
+†
 
 <br>
 
