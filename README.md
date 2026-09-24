@@ -19,6 +19,3 @@
 [tiktok](https://www.tiktok.com/@ffr3u11d?_r=1&_t=ZP-99xnrWm5hip) &nbsp;&nbsp; [discord](https://discord.gg/py4x2VsT) 
 
 </div>
-<color=white>
-
-
